@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ral 
 
-<!--
-**Ralware/Ralware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science Engineering Student  
 
-Here are some ideas to get you started:
+Currently focused on strengthening my fundamentals and building towards
+full-stack software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Java · JavaScript · TypeScript · Python · SQL
+
+**Frontend**  
+React.js · HTML5 · CSS3 · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · REST APIs
+
+**Databases**  
+PostgreSQL · MongoDB
+
+**Tools & Platforms**  
+Git · GitHub · Docker · Linux · AWS · Vercel · Postman
+
+**Core CS**  
+Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+
+**AI**  
+OpenAI API · LLM Integration · Prompt Engineering
+
+---
+
+## 📈 Learning → Building → Improving
+
+> **Learn. Build. Break. Debug. Improve.**
+
+This profile will evolve alongside my journey as a software engineer.
