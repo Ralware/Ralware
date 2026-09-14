@@ -27,9 +27,6 @@ Git · GitHub · Docker · Linux · AWS · Vercel · Postman
 **Core CS**  
 Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
-**AI**  
-OpenAI API · LLM Integration · Prompt Engineering
-
 ---
 
 ## 📈 Learning → Building → Improving
