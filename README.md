@@ -1,6 +1,6 @@
 # Hi, I'm Ral 
 
- Computer Science Engineering Student  
+ Computer Science Engineering Student @ PESU
 
 Currently focused on strengthening my fundamentals and building towards
 full-stack software development.
