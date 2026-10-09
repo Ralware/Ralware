@@ -29,8 +29,4 @@ Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Net
 
 ---
 
-## 📈 Learning → Building → Improving
 
-> **Learn. Build. Break. Debug. Improve.**
-
-This profile will evolve alongside my journey as a software engineer.
