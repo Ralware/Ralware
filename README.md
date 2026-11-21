@@ -7,7 +7,7 @@ full-stack software development.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 Java · JavaScript · TypeScript · Python · SQL
